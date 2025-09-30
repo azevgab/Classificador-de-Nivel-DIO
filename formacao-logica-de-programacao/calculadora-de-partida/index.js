@@ -1,4 +1,4 @@
-// 2️⃣ Ranked Matches Calculator
+// Ranked Matches Calculator
 
 function rankedBalance(wins, losses) {
     let balance = wins - losses;
